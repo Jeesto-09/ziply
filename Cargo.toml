@@ -1,0 +1,21 @@
+[package]
+# Ziply
+# ziply allows you to create shorter and easier-to-share links. Start using Ziply today for swift and efficient link shortening!
+name = "ziply"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ayub Jama <ayubsuleiman01@gmail.com>"]
+
+[dependencies]
+tokio = { version = "1.29.1", features = ["full"] }
+mongodb = { version = "2.6.0", features = ["tokio-sync"] }
+actix-web = "4.3.1"
+serde = "1.0.175"
+dotenvy = "0.15.7"
+log = "0.4.19"
+env_logger = "0.10.0"
+actix-files = "0.6.2"
+regex = "1.9.1"
+nanoid = "0.4.0"
+bson = "2.6.1"
+actix-cors = "0.6.4"

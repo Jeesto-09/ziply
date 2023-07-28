@@ -1,0 +1,48 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 32px;
+  color: hsl(200, 35%, 25%);
+}
+
+span {
+  border-bottom: 2px dotted #999;
+}
+
+.url-input-container {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type="text"] {
+  width: 350px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.short-url {
+  margin-top: 20px;
+}
