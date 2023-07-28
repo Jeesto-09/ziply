@@ -15,7 +15,12 @@ ziply allows you to create shorter and easier-to-share links. Start using Ziply 
 ## Shorten the url by generating a random name in case shortname isn't supplied
  <img width="1431" alt="random-generated-shortname" src="https://github.com/AYUB-JAMA/ziply/blob/master/src/client/screenshot/random-generated-shortname.png">
   <img width="1431" alt="choosing-short-name" src="https://github.com/AYUB-JAMA/ziply/blob/master/src/client/screenshot/choosing-short-name.png">
- 
+
+ ## Features Missing
+ * Custom domain support.
+ * View, edit, delete and manage your links.
+ * Stats with charts
+ * description for links.
 
 ## Setup
 
