@@ -13,8 +13,9 @@ ziply allows you to create shorter and easier-to-share links. Start using Ziply 
 - RESTful API.
 ## Shorten the url by the supplied shortname
 ## Shorten the url by generating a random name in case shortname isn't supplied
-  <img width="1431" alt="choosing-short-name" src="https://github.com/AYUB-JAMA/molurl/assets/42579401/72a1ef9a-7ce1-4392-90ff-317ba47ed084">
-  <img width="1431" alt="random-generated-shortname" src="https://github.com/AYUB-JAMA/molurl/assets/42579401/6f36cd43-7fb1-4aba-9823-78965d65c717">
+ <img width="1431" alt="random-generated-shortname" src="https://github.com/AYUB-JAMA/ziply/blob/master/src/client/screenshot/random-generated-shortname.png">
+  <img width="1431" alt="choosing-short-name" src="https://github.com/AYUB-JAMA/ziply/blob/master/src/client/screenshot/choosing-short-name.png">
+ 
 
 ## Setup
 
