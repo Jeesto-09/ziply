@@ -7,7 +7,7 @@ edition = "2021"
 authors = ["Ayub Jama <ayubsuleiman01@gmail.com>"]
 
 [dependencies]
-tokio = { version = "1.29.1", features = ["full"] }
+tokio = { version = "1.40", features = ["full"] }
 mongodb = { version = "2.6.0", features = ["tokio-sync"] }
 actix-web = "4.3.1"
 serde = "1.0.175"

@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+#/build
 
 # misc
 .DS_Store
@@ -25,3 +25,4 @@ yarn-error.log*
 
 # rust cargo build
 /target
+Cargo.lock
