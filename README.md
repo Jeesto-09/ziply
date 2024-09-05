@@ -28,7 +28,7 @@ ziply allows you to create shorter and easier-to-share links. Start using Ziply 
 
 You need to have [Node.js](https://nodejs.org/), [MONGODB](https://www.mongodb.com) and [Rust](https://www.rust-lang.org/tools/install) installed.
 
-1. Clone this repository or [download the latest zip](https://github.com/AYUB-JAMA/Ziply).
+1. Clone this repository or [download the latest zip](https://github.com/AJ095/Ziply).
 2. Copy `.example.env` to `.env` and fill it properly ([see below](#configuration)).
 Node + React
 3. Install dependencies: `npm install`.
